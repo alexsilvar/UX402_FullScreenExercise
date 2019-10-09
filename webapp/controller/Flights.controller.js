@@ -24,7 +24,7 @@ sap.ui.define([
 						oView.setBusy(false);
 					}
 				}
-			})
+			});
 		},
 		onNavBack: function () {
 			var oHistory, sPreviousHash, oRouter;

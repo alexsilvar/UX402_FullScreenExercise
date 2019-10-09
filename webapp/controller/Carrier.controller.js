@@ -39,7 +39,7 @@ sap.ui.define([
 		//	onExit: function() {
 		//
 		//	}
-		
+
 		onPress: function (oEvent) {
 			var oItem = oEvent.getSource();
 			var oCtx = oItem.getBindingContext();
